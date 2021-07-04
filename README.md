@@ -1,6 +1,6 @@
 ### Hi there, Jhonas here 👋
 ## I'm a Software Developer from the Dominican Republic ☀️ 🌴
-I'm friendly, team player and passionate for create solutions which solve and help the people to achieve their goals.
+I'm friendly, team player and passionate for create solutions which solves and helps the people to achieve their goals.
 
 Proficient in
 - C# / ASP.NET Core
