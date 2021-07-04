@@ -4,6 +4,9 @@
 Proficient in
 - C# / ASP.NET Core
 - JS / ReactJs / NodeJs
+- Dart / Flutter
+- SQL / SQL SERVER / MYSQL
+- NO-SQL / MongoDB
 
 About:
 - 🔭 I’m currently working in <a target='_blank' href='https://www.bhdleon.com.do/'>BHDLEON</a>
