@@ -1,4 +1,6 @@
-### Hi there, Nelson here 👋
+### Hi there, Jhonas here 👋
+## I'm a Software Developer from the Dominican Republic ☀️ 🌴
+
 Proficient in
 - C# / ASP.NET Core
 - JS / ReactJs / NodeJs
