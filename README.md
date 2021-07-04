@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, Nelson here 👋
+Proficient in
+- C# / ASP.NET Core
+- JS / ReactJs / NodeJs
 
-<!--
-**JhonasV/JhonasV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About:
+- 🔭 I’m currently working in <a target='_blank' href='https://www.bhdleon.com.do/'>BHDLEON</a>
+- 🌱 I’m currently learning: <bold>Python/Django and Flutter</bold>
+- 👯 I’m looking to collaborate on Web and mobile applications
+- 📫 How to reach me: jhonas724@gmail.com
 
-Here are some ideas to get you started:
+![Jhonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonasV&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
