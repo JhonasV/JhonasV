@@ -13,7 +13,6 @@ Novice:
 - Python/Django
 
 About:
-- 🔭 I'm currently working in the finantial industry at [BHDLeon Bank](https://www.bhdleon.com.do/)
 - 🌱 I’m currently learning: __Python/Django__
 - 👯 I’m looking to collaborate on __Web and Mobile Applications Development__
 - 📫 How to reach me: jhonas724@gmail.com
