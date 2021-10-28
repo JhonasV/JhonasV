@@ -3,9 +3,9 @@
 <h3 align="center">I'm a Software Developer from the Dominican Republic ☀️ 🌴 I'm friendly, team player and passionate for create solutions which solves and helps the people to achieve their goals.</h3>
 
 Proficient in
-- C# / ASP.NET Core
-- JS / ReactJs / NodeJs
-- SQL / SQL SERVER / MYSQL
+- C# - ASP.NET Core
+- JS - ReactJs / NodeJs
+- SQL - SQL SERVER / MYSQL
 
 Novice:
 - NO-SQL / MongoDB
