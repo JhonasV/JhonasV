@@ -5,13 +5,12 @@
 Proficient in
 - C# / ASP.NET Core
 - JS / ReactJs / NodeJs
-- Dart / Flutter
 - SQL / SQL SERVER / MYSQL
 
 Novice:
 - NO-SQL / MongoDB
 - Python/Django
-
+- Dart / Flutter
 About:
 - 🌱 I’m currently learning: __Python/Django__
 - 👯 I’m looking to collaborate on __Web and Mobile Applications Development__
