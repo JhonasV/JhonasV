@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonasv&label=Profile%20views&color=0e75b6&style=flat" alt="jhonasv" /> </p>
 <h1 align="center">Hi 👋, I'm Jhonas</h1>
-<h3 align="center">I'm a Software Developer from the Dominican Republic ☀️ 🌴 I'm friendly, team player and passionate for create solutions which solves and helps the people to achieve their goals.</h3>
+<h3 align="center">I'm a Software Developer from the Dominican Republic ☀️ 🌴</h3>
 
 Proficient in
 - C# - ASP.NET Core
