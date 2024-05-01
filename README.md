@@ -1,16 +1,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonasv&label=Profile%20views&color=0e75b6&style=flat" alt="jhonasv" /> </p>
 <h1 align="center">Hi 👋, I'm Jhonas</h1>
 <h3 align="center">I'm a Software Developer from the Dominican Republic ☀️ 🌴</h3>
-
+<! ---
 Proficient in
-- C# - ASP.NET Core
+-- C# - ASP.NET Core
 - JS - ReactJs / NodeJs
 - SQL - SQL SERVER / MYSQL
-
+<! ---
 Novice:
 - NO-SQL / MongoDB
 - Python/Django
 - Dart / Flutter
+
+
 
 About:
 - 🌱 I’m currently learning: __Python/Django__
